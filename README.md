@@ -163,3 +163,6 @@ This platform is the frontend implementation for an academic research project st
 - **Cambridge Brain Sciences** — Memory
 
 The classification engine uses Logistic Regression, Random Forest, SVM, and XGBoost models.
+
+LIVE:
+https://learnai-assistant.vercel.app/
